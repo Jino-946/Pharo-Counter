@@ -11,7 +11,7 @@ Class {
 	#instVars : [
 		'count'
 	],
-	#category : #MyCounter
+	#category : #'MyCounter-Core'
 }
 
 { #category : #accessing }
